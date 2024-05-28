@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "878980289676",
+    "project_id": "lesbase-e4e7f",
+    "storage_bucket": "lesbase-e4e7f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:878980289676:android:ec7370edb1b29645eb17a9",
+        "android_client_info": {
+          "package_name": "com.example.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDsH2yFr50L6IRQOcn5xAb8k5plUhSnMfQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:878980289676:android:7de4690dd23e2f99eb17a9",
+        "android_client_info": {
+          "package_name": "com.example.filezy"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDsH2yFr50L6IRQOcn5xAb8k5plUhSnMfQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
